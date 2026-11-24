@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128" role="img" aria-label="qq-farm-bot">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#59B24A"/>
+      <stop offset="100%" stop-color="#12B886"/>
+    </linearGradient>
+  </defs>
+  <rect width="128" height="128" rx="28" fill="url(#bg)"/>
+  <path d="M64 102V58" stroke="#FFFFFF" stroke-width="9" stroke-linecap="round"/>
+  <path d="M64 82C46.5 82 34 70 34 52c17.5 0 30 12 30 30z" fill="#FFFFFF" fill-opacity="0.95"/>
+  <path d="M64 70c17.5 0 30-12 30-30-17.5 0-30 12-30 30z" fill="#FFFFFF" fill-opacity="0.78"/>
+  <path d="M40 106h48" stroke="#FFFFFF" stroke-width="9" stroke-linecap="round"/>
+</svg>
